@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified and edited test1.txt file in master branch
+=======
+modified1 and edited test1.txt file
+>>>>>>> Bugfix
